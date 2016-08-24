@@ -1,0 +1,7 @@
+# vim
+.swp
+
+# makepkg
+/src
+/pkg
+*.pkg.tar.xz

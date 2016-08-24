@@ -1,0 +1,4 @@
+Copyright (c) 2000 Neale Davidson
+
+Embedding for editing allowed,
+For personal use.
